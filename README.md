@@ -1,5 +1,4 @@
 # CampusAbnormal
-# CampusAbnormal
 
 CampusAbnormal is a [brief description of your project goes here].
 
